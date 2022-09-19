@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "desctable",
+    "oncran": true
+  }
+]
